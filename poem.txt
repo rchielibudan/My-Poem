@@ -6,6 +6,7 @@ Orange
 Blue
 Green
 Indigo
+Today is Earth Day
 Earth
 Unicorn
 Yellow
